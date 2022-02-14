@@ -1,51 +1,51 @@
-State,Murder,Assault,UrbanPop,Assault
-Alabama,13,236,58,236
-Alaska,10,263,48,263
-Arizona,8,294,80,294
-Arkansas,9,190,50,190
-California,9,276,91,276
-Colorado,8,204,78,204
-Connecticut,3,110,77,110
-Delaware,6,238,72,238
-Florida,15,335,80,335
-Georgia,17,170,60,170
-Hawaii,5,46,83,46
-Idaho,3,120,54,120
-Illinois,10,249,83,249
-Indiana,7,113,65,113
-Iowa,2,56,57,56
-Kansas,6,115,66,115
-Kentucky,10,109,52,109
-Louisiana,15,249,66,249
-Maine,2,83,51,83
-Maryland,11,300,67,300
-Massachusetts,4,149,85,149
-Michigan,12,255,74,255
-Minnesota,3,72,66,72
-Mississippi,16,259,44,259
-Missouri,9,178,70,178
-Montana,6,109,53,109
-Nebraska,4,102,62,102
-Nevada,12,252,81,252
-New Hampshire,2,57,56,57
-New Jersey,7,159,89,159
-New Mexico,11,285,70,285
-New York,11,254,86,254
-North Carolina,13,337,45,337
-North Dakota,1,45,44,45
-Ohio,7,120,75,120
-Oklahoma,7,151,68,151
-Oregon,5,159,67,159
-Pennsylvania,6,106,72,106
-Rhode Island,3,174,87,174
-South Carolina,14,279,48,279
-South Dakota,4,86,45,86
-Tennessee,13,188,59,188
-Texas,13,201,80,201
-Utah,3,120,80,120
-Vermont,2,48,32,48
-Virginia,9,156,63,156
-Washington,4,145,73,145
-West Virginia,6,81,39,81
-Wisconsin,3,53,66,53
-Wyoming,7,161,60,161
+State,Murder,Assault,UrbanPop
+Alabama,13,236,58
+Alaska,10,263,48
+Arizona,8,294,80
+Arkansas,9,190,50
+California,9,276,91
+Colorado,8,204,78
+Connecticut,3,110,77
+Delaware,6,238,72
+Florida,15,335,80
+Georgia,17,170,60
+Hawaii,5,46,83
+Idaho,3,120,54
+Illinois,10,249,83
+Indiana,7,113,65
+Iowa,2,56,57
+Kansas,6,115,66
+Kentucky,10,109,52
+Louisiana,15,249,66
+Maine,2,83,51
+Maryland,11,300,67
+Massachusetts,4,149,85
+Michigan,12,255,74
+Minnesota,3,72,66
+Mississippi,16,259,44
+Missouri,9,178,70
+Montana,6,109,53
+Nebraska,4,102,62
+Nevada,12,252,81
+New Hampshire,2,57,56
+New Jersey,7,159,89
+New Mexico,11,285,70
+New York,11,254,86
+North Carolina,13,337,45
+North Dakota,1,45,44
+Ohio,7,120,75
+Oklahoma,7,151,68
+Oregon,5,159,67
+Pennsylvania,6,106,72
+Rhode Island,3,174,87
+South Carolina,14,279,48
+South Dakota,4,86,45
+Tennessee,13,188,59
+Texas,13,201,80
+Utah,3,120,80
+Vermont,2,48,32
+Virginia,9,156,63
+Washington,4,145,73
+West Virginia,6,81,39
+Wisconsin,3,53,66
+Wyoming,7,161,60
