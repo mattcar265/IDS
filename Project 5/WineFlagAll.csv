@@ -1,4 +1,4 @@
-Type,Alcohol_flag,Sugar_flag
+Type,AlcoholFlag,SugarFlag
 Red,High,High
 Red,High,Low
 Red,Low,High
